@@ -4,6 +4,7 @@ Welcome to my personal repository! I'm currently a Master of Science research st
 
 ## Quote
 > " Life is too short to just grind LeetCode problems, pass the first two rounds of an interview, and then fail on the third. This practice is stupid—I guess it's not really about software engineering and real-world problem solving skills, but competitive programming that required strong mathematical background. Bangang."
+> Alvin
 
 
 ## About Me
