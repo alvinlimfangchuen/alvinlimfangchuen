@@ -8,9 +8,9 @@ Welcome to my personal repository! I'm currently a Master of Science research st
 
 ## About Me
 
-- 🎓 Pursuing a Master of Science, specializing in [Your Major/Field].
-- 🔍 Deeply involved in research focusing on [Brief Description of Your Research Interests].
-- 💻 Equally passionate about software engineering, with experience in [Mention Any Relevant Technologies or Projects].
+- 🎓 Pursuing a Master of Science, specializing in Information Technology
+- 🔍 Deeply involved in research focusing on Biometrics, Image Processing, & Deep learning
+- 💻 Equally passionate about software engineering, with experience in E-Commerce application, Web-based Aales Analytics, Digital Business using NFC technology, 
 - 🌍 Looking to collaborate on projects that are at the intersection of research and technology.
 
 ## Connect With Me
@@ -20,6 +20,6 @@ Welcome to my personal repository! I'm currently a Master of Science research st
 
 ## More About My Work
 
-Feel free to explore my repositories to see what I've been working on! You can also reach out to me directly if you have any questions or if you want to discuss potential collaborations.
+- 🎓 Ads-free No-login required QR Code Generator  [www.qrcodegenerator.alvinlfc.com](www.qrcodegenerator.alvinlfc.com)
 
 Thank you for stopping by!
