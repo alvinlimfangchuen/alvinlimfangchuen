@@ -11,7 +11,7 @@ Welcome to my personal repository! I'm currently a Master of Science research st
 
 - 🎓 Pursuing a Master of Science, specializing in Information Technology
 - 🔍 Deeply involved in research focusing on Biometrics, Image Processing, & Deep learning
-- 💻 Equally passionate about software engineering, with experience in E-Commerce application, Web-based Aales Analytics, Digital Business using NFC technology, 
+- 💻 Equally passionate about software engineering, with experience in E-Commerce application, Web-based Sales Analytics, Digital Business using NFC technology, 
 
 
 ## Connect With Me
