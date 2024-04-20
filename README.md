@@ -20,6 +20,6 @@ Welcome to my personal repository! I'm currently a Master of Science research st
 
 ## More About My Work
 
-- 🎓 Ads-free No-login required QR Code Generator  [www.qrcodegenerator.alvinlfc.com](www.qrcodegenerator.alvinlfc.com)
+- 🎓 Ads-free No-login required QR Code Generator  [www.qrcodegenerator.alvinlfc.com](https://www.qrcodegenerator.alvinlfc.com)
 
 Thank you for stopping by!
