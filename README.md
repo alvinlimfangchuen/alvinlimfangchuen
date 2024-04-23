@@ -1,4 +1,5 @@
 #  👋Hello, I'm Alvin Lim Fang Chuen
+![Dncing Pikachu](https://alvinlfc.com/image/pikachu.gif)
 
 Welcome to my personal repository! I'm currently a Master of Science research student with a strong focus on both research and software engineering. I am passionate about bridging the gap between theoretical research and practical software applications.
 
