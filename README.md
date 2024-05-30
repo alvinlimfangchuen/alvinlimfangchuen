@@ -3,11 +3,6 @@
 
 Welcome to my personal repository! I'm currently a Master of Science research student with a strong focus on both research and software engineering. I am passionate about bridging the gap between theoretical research and practical software applications.
 
-## Quote
-> " Life is too short to just solve LeetCode problems, pass the first two rounds of an interview, and then fail on the third. This practice is stupid—I guess it's not really about software engineering and real-world problem solving skills, but competitive programming that required strong mathematical background. Bangang."
-> - Alvin
-
-
 ## About Me
 
 - 🎓 Pursuing a Master of Science, specializing in Information Technology
