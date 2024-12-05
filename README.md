@@ -1,13 +1,13 @@
 #  👋Hello, I'm Alvin Lim Fang Chuen
 ![Dncing Pikachu](https://alvinlfc.com/image/pikachu.gif)
 
-Welcome to my personal repository! I'm currently a Master of Science research student with a strong focus on both research and software engineering. I am passionate about bridging the gap between theoretical research and practical software applications.
+Mak Kau Hijauuu
 
 ## About Me
 
-- 🎓 Pursuing a Master of Science, specializing in Information Technology
-- 🔍 Deeply involved in research focusing on Biometrics, Image Processing, & Deep learning
-- 💻 Equally passionate about software engineering, with experience in E-Commerce application, Web-based Sales Analytics, Digital Business using NFC technology, 
+- 🎓 Yeay boi
+- 🔍 Yeay Buddy!
+- 💻 Light Weight!
 
 
 ## Connect With Me
