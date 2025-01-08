@@ -1,4 +1,4 @@
-#  👋Hello, I'm Alvin Lim Fang Chuen
+#  👋Hello, I'm Alvin Lim 
 ![Dncing Pikachu](https://alvinlfc.com/image/pikachu.gif)
 
 Mak Kau Hijauuu
