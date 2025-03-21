@@ -22,6 +22,6 @@ Mak Kau Hijauuu
 - <a href="https://www.taplerr.com" target="_blank">www.taplerr.com</a> : Digital-business card platform using pure PHP without framework
   - <a href="https://www.youtube.com/shorts/x457xs1MIOg?feature=share" target="_blank">Taplerr Product Demo</a>
   - <a href="https://alvinlfc.com/portfolio/taplerr/" target="_blank">Taplerr Portfolio</a>
-- <a href="https://www.pisanghosting.com" target="_blank">www.pisanghosting.com</a> : 🍌🖥️ A free shared hosting service for Diploma in IT web-based final year projects (FYP)
+- <a href="https://www.pisanghosting.com" target="_blank">www.pisanghosting.com </a> (discontinued) : 🍌🖥️ A free shared hosting service for Diploma in IT web-based final year projects (FYP)
 
 Thank you for stopping by!
