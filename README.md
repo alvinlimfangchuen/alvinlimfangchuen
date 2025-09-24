@@ -6,20 +6,12 @@
 
 👋 Hey there! I'm a passionate **fullchat developer**.
 
-🚀 **What I do:**
-
-- 💻 **Frontend Wizard**: Certified front-end vibe coder
-- 🔧 **Backend Architect**: Building robust server-side solutions
-- 🤖 **AI-Enhanced Development**: Integrating AI tools to accelerate development and problem-solving
-- 🎨 **UI/UX Enthusiast**: Creating intuitive and visually appealing user interfaces
-- ⚙️ **Certified DevOps**: Setting up fun small servers and automating deployments for kicks
-- 🚀 **Infrastructure Tinkerer**: Love experimenting with server setups and cloud deployments
-
 ## 🚀 Featured Project: Taplerr
 
 Over the past **2 years**, I've been passionately developing **Taplerr** - a modern digital business card platform that's revolutionizing how professionals network and share their information.
 
 ### What makes Taplerr special?
+
 - 💳 **Digital Business Cards**: Create stunning, interactive digital business cards
 - 🔧 **Pure PHP Power**: Built from scratch using pure PHP without frameworks
 - 🎯 **User-Focused Design**: Simple, intuitive interface for seamless networking
