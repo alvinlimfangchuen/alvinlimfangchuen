@@ -6,6 +6,16 @@
 
 👋 Hey there! I'm a passionate **fullchat developer**.
 
+### Connect With Me
+
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" width="15" height="15" alt="LinkedIn Logo"> [LinkedIn](https://www.linkedin.com/in/alvin-lim-fang-chuen/)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Google_Scholar_logo.svg/2048px-Google_Scholar_logo.svg.png" width="15" height="15" alt="Google Scholar Logo"> [Google Scholar](https://scholar.google.com/citations?user=HPcSi-0AAAAJ&hl=en)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Steam_icon_logo.svg/2048px-Steam_icon_logo.svg.png" width="15" height="15" alt="Steam Logo"> [Steam](#) <!-- Replace # with your Steam profile URL -->
+
+### Thanks
+
+Thank you for visiting my profile! Feel free to connect with me on any of the platforms above.
+
 ## 🚀 Featured Project: Taplerr
 
 Over the past **2 years**, I've been developing **Taplerr** for fun - a modern digital business card platform that's revolutionizing how professionals network and share their information.
