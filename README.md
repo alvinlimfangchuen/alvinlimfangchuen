@@ -18,7 +18,7 @@ Over the past **2 years**, I've been passionately developing **Taplerr** - a mod
 - 📱 **Mobile-First**: Perfectly optimized for all devices
 - 🆓 **Free to Start**: Join thousands of professionals already using Taplerr
 
-**Ready to upgrade your networking game?** [Sign up for free at Taplerr.com](https://www.taplerr.com) and create your digital business card today!
+**Ready to upgrade your networking game?** [Sign up for free at Taplerr.com](https://staging.taplerr.com/registration) and create your digital business card today!
 
 ## Connect With Me
 
