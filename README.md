@@ -11,7 +11,7 @@
 - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" width="15" height="15" alt="LinkedIn Logo"> <a href="https://www.linkedin.com/in/alvin-lim-fang-chuen/" target="_blank" rel="noopener">LinkedIn</a>
 - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Google_Scholar_logo.svg/2048px-Google_Scholar_logo.svg.png" width="15" height="15" alt="Google Scholar Logo"> <a href="https://scholar.google.com/citations?user=HPcSi-0AAAAJ&hl=en" target="_blank" rel="noopener">Google Scholar</a>
 - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Steam_icon_logo.svg/2048px-Steam_icon_logo.svg.png" width="15" height="15" alt="Steam Logo"> <a href="https://steamcommunity.com/profiles/76561198097943854/" target="_blank" rel="noopener">Steam</a>
-- <img src="https://www.mmu.edu.my/wp-content/themes/mmu2018/assets/images/logo-mmu.png" width="15" height="15" alt="MMU Logo"> <a href="https://mmuexpert.mmu.edu.my/alvinlim" target="_blank" rel="noopener">MMU Expert</a>
+- <img src="https://www.mmu.edu.my/wp-content/themes/mmu2018/assets/images/logo-mmu.png" width="15" height="15" alt="MMU Logo"> <a href="https://mmuexpert.mmu.edu.my/alvinlim" target="_blank" rel="noopener">MMU Directory</a>
 
 ## 🚀 Featured Project: Taplerr
 
@@ -32,6 +32,7 @@ Over the past **2 years**, I've been developing **Taplerr** for fun - a modern d
 I've developed **iHGS-MHI-BLOCKS**, a custom image processing algorithm for generating 3D features from in-air hand gesture signatures.
 
 ### Key Innovations:
+
 - 🎯 **Standardization**: Converts variable-length frame sequences into consistent 10-frame format
 - 📊 **Large Dataset**: Processes 2000 samples across 100 classes (100 individuals)
 - 🖐️ **Motion History Image (MHI)**: Advanced technique for contactless signature recognition
