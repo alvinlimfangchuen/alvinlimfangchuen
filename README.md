@@ -39,7 +39,7 @@ I've developed **iHGS-MHI-BLOCKS**, a custom image processing algorithm for gene
 
 **Technical Stack**: MATLAB 2021a | No external dependencies required
 
-[**View Algorithm on GitHub**](https://github.com/alvinlimfangchuen/iHGS-MHI-BLOCKS)
+[**View Algorithm on GitHub**](https://github.com/alvinlimfangchuen/iHGS-MHI-BLOCKS) | [**Read Research Article**](https://ijtech.eng.ui.ac.id/article/view/6744)
 
 ## More About My Work
 
