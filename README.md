@@ -8,9 +8,17 @@ Mak Kau Hijauuu
 ![GitHub Language](https://img.shields.io/github/languages/top/alvinlimfangchuen/alvinlimfangchuen?style=flat&theme=dark)
 
 ## About Me
-- 🎓 Yeay boi
-- 🔍 Yeay Buddy!
-- 💻 Light Weight!
+👋 Hey there! I'm a passionate **fullstack developer** who loves crafting digital experiences from front to back. I specialize in leveraging cutting-edge AI tools like **ChatGPT** and **Claude** to supercharge my development workflow and deliver innovative solutions.
+
+🚀 **What I do:**
+- 💻 **Frontend Wizard**: Certified front-end developer with serious vibe coding skills
+- 🔧 **Backend Architect**: Building robust server-side solutions
+- 🤖 **AI-Enhanced Development**: Integrating AI tools to accelerate development and problem-solving
+- 🎨 **UI/UX Enthusiast**: Creating intuitive and visually appealing user interfaces
+- ⚙️ **Certified DevOps**: Setting up fun small servers and automating deployments for kicks
+- 🚀 **Infrastructure Tinkerer**: Love experimenting with server setups and cloud deployments
+
+When I'm not coding, you'll find me exploring the latest tech trends, contributing to open-source projects, or sharing knowledge with the developer community.
 
 ## Connect With Me
 - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" width="15" height="15" alt="LinkedIn Logo"> [LinkedIn](https://www.linkedin.com/in/alvin-lim-fang-chuen/)
