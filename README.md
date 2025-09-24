@@ -11,7 +11,7 @@
 - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" width="15" height="15" alt="LinkedIn Logo"> [LinkedIn](https://www.linkedin.com/in/alvin-lim-fang-chuen/)
 - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Google_Scholar_logo.svg/2048px-Google_Scholar_logo.svg.png" width="15" height="15" alt="Google Scholar Logo"> [Google Scholar](https://scholar.google.com/citations?user=HPcSi-0AAAAJ&hl=en)
 - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Steam_icon_logo.svg/2048px-Steam_icon_logo.svg.png" width="15" height="15" alt="Steam Logo"> [Steam](https://steamcommunity.com/profiles/76561198097943854/)
-- <img src="https://gradmalaysia.com/sites/default/files/2022-04/MMU-New-logo-png.png" width="15" height="15" alt="MMU Logo"> [MMU Expert](https://mmuexpert.mmu.edu.my/alvinlim)
+- <img src="https://www.mmu.edu.my/wp-content/themes/mmu2018/assets/images/logo-mmu.png" width="15" height="15" alt="MMU Logo"> [MMU Expert](https://mmuexpert.mmu.edu.my/alvinlim)
 
 ## 🚀 Featured Project: Taplerr
 
