@@ -1,4 +1,5 @@
-#  👋Hello, I'm Alvin Lim 
+# 👋Hello, I'm Alvin Lim
+
 ![Dncing Pikachu](https://alvinlfc.com/image/pikachu.gif)
 
 Mak Kau Hijauuu
@@ -8,23 +9,25 @@ Mak Kau Hijauuu
 ![GitHub Language](https://img.shields.io/github/languages/top/alvinlimfangchuen/alvinlimfangchuen?style=flat&theme=dark)
 
 ## About Me
-👋 Hey there! I'm a passionate **fullstack developer** who loves crafting digital experiences from front to back. I specialize in leveraging cutting-edge AI tools like **ChatGPT** and **Claude** to supercharge my development workflow and deliver innovative solutions.
+
+👋 Hey there! I'm a passionate **fullchat developer**.
 
 🚀 **What I do:**
-- 💻 **Frontend Wizard**: Certified front-end developer with serious vibe coding skills
+
+- 💻 **Frontend Wizard**: Certified front-end vibe code developer
 - 🔧 **Backend Architect**: Building robust server-side solutions
 - 🤖 **AI-Enhanced Development**: Integrating AI tools to accelerate development and problem-solving
 - 🎨 **UI/UX Enthusiast**: Creating intuitive and visually appealing user interfaces
 - ⚙️ **Certified DevOps**: Setting up fun small servers and automating deployments for kicks
 - 🚀 **Infrastructure Tinkerer**: Love experimenting with server setups and cloud deployments
 
-When I'm not coding, you'll find me exploring the latest tech trends, contributing to open-source projects, or sharing knowledge with the developer community.
-
 ## Connect With Me
+
 - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" width="15" height="15" alt="LinkedIn Logo"> [LinkedIn](https://www.linkedin.com/in/alvin-lim-fang-chuen/)
 - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Google_Scholar_logo.svg/2048px-Google_Scholar_logo.svg.png" width="15" height="15" alt="Google Scholar Logo"> [Google Scholar](https://scholar.google.com/citations?user=HPcSi-0AAAAJ&hl=en)
 
 ## More About My Work
+
 - <a href="https://www.alvinlfc.com" target="_blank">www.alvinlfc.com</a> : 🎓 Personal Website
 - <a href="https://www.qrgenerator.alvinlfc.com" target="_blank">www.qrgenerator.alvinlfc.com</a> : 🎓 Ads-free, no-login required QR Code Generator
 - <a href="https://www.taplerr.com" target="_blank">www.taplerr.com</a> : Digital-business card platform using pure PHP without framework
