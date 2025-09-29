@@ -15,6 +15,8 @@
 
 ## 🚀 Featured Project: Taplerr
 
+![Taplerr Demo](Taplerr_Demo.gif)
+
 Over the past **2 years**, I've been developing **Taplerr** for fun - a modern digital business card platform that's revolutionizing how professionals network and share their information.
 
 ### What makes Taplerr special?
