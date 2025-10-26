@@ -15,17 +15,16 @@
 
 ## 🚀 Featured Project: Taplerr
 
-Over the past **2 years**, I've been developing **Taplerr** for fun - a modern digital business card platform that's revolutionizing how professionals network and share their information.
+A digital business card platform I've been building for the past **2 years** using pure PHP.
 
-### Okay
+### Features:
 
-- 💳 **Digital Business Cards**: Create stunning, interactive digital business cards
-- 🔧 **Pure PHP Power**: Built from scratch using pure PHP without frameworks
-- 🎯 **User-Focused Design**: Simple, intuitive interface for seamless networking
-- 📱 **Mobile-First**: Perfectly optimized for all devices
-- 🆓 **Free to Start**: Join thousands of professionals already using Taplerr
+- 💳 **Digital Business Cards**: Interactive digital business cards
+- 🔧 **Pure PHP**: Built from scratch without frameworks
+- 📱 **Mobile-First**: Optimized for all devices
+- 🆓 **Free to Start**: Available to use now
 
-**Ready to upgrade your networking game?** [Sign up for free at Taplerr.com](https://staging.taplerr.com/registration) and create your digital business card today!
+[Sign up at Taplerr.com](https://staging.taplerr.com/registration)
 
 ## 🧠 Research Project: Custom Image Processing Algorithm
 
