@@ -28,18 +28,16 @@ A digital business card platform I've been building for the past **2 years** usi
 
 ## 🧠 Research Project: Custom Image Processing Algorithm
 
-I've developed **iHGS-MHI-BLOCKS**, a custom image processing algorithm for generating 3D features from in-air hand gesture signatures.
+**iHGS-MHI-BLOCKS** - an image processing algorithm for generating 3D features from in-air hand gesture signatures.
 
-### Key Innovations:
+### Key Features:
 
-- 🎯 **Standardization**: Converts variable-length frame sequences into consistent 10-frame format
-- 📊 **Large Dataset**: Processes 2000 samples across 100 classes (100 individuals)
-- 🖐️ **Motion History Image (MHI)**: Advanced technique for contactless signature recognition
-- 🔬 **Research Impact**: Supports revolutionizing signature recognition with neural networks
+- 🎯 **Standardization**: Converts variable-length frame sequences to 10-frame format
+- 📊 **Dataset**: 2000 samples across 100 classes
+- 🖐️ **Motion History Image (MHI)**: Contactless signature recognition technique
+- 🔬 **Built with**: MATLAB 2021a
 
-**Technical Stack**: MATLAB 2021a | No external dependencies required
-
-[**View Algorithm on GitHub**](https://github.com/alvinlimfangchuen/iHGS-MHI-BLOCKS) | [**Read Research Article**](https://ijtech.eng.ui.ac.id/article/view/6744)
+[View on GitHub](https://github.com/alvinlimfangchuen/iHGS-MHI-BLOCKS) | [Read Research Article](https://ijtech.eng.ui.ac.id/article/view/6744)
 
 ## More About My Work
 
