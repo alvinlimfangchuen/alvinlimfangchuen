@@ -1,7 +1,5 @@
 # 👋Hello, I'm Alvin Lim
 
-![Dncing Pikachu](https://alvinlfc.com/image/pikachu.gif)
-
 ## About Me
 
 👋 Hey there! I'm a passionate **fullchat developer**.
