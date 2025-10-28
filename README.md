@@ -25,6 +25,8 @@ Free for now. okk
 
 Any suggestion email sini: alvin.lim@taplerr.com (check mailbox once every 3 month) or alvin.lim@mmu.edu.my (Reply within 24 hours)
 
+<img src="taplerr-design.png" width="600" alt="Taplerr Design">
+
 ## 🧠 Research Project: Custom Image Processing Algorithm
 
 **iHGS-MHI-BLOCKS** - an image processing algorithm for generating 3D features from in-air hand gesture signatures.
