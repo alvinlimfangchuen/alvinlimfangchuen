@@ -19,7 +19,8 @@ A digital business card platform I've been building for the past **2 years** for
 
 Free for now. okk
 
-[Taplerr Landing Page](https://staging.taplerr.com/registration)
+[www.taplerr.com](https://taplerr.com)
+
 [Sign up at Taplerr.com](https://staging.taplerr.com/registration)
 
 Any suggestion email sini: alvin.lim@taplerr.com, if I dont reply on that  just email this one alvin.lim@mmu.edu.my (Reply within 24 hours)
