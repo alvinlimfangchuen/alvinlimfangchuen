@@ -23,7 +23,7 @@ Free for now. okk
 
 [Sign up at Taplerr.com](https://staging.taplerr.com/registration)
 
-Any suggestion email sini: alvin.lim@taplerr.com, if I dont reply on that  just email this one alvin.lim@mmu.edu.my (Reply within 24 hours)
+Any suggestion email sini: alvin.lim@taplerr.com (check mailbox once every 3 month) or alvin.lim@mmu.edu.my (Reply within 24 hours)
 
 ## 🧠 Research Project: Custom Image Processing Algorithm
 
