@@ -2,7 +2,7 @@
 
 ## About
 
-👋 Hey there! I'm a passionate **fullchat developer**.
+Hey there! I'm a passionate **fullchat developer**.
 
 No life with 6,900 playtime hours on Dota 2.
 
