@@ -1,8 +1,12 @@
 # 👋Hello, I'm Alvin Lim
 
-## About Me
+## About
 
 👋 Hey there! I'm a passionate **fullchat developer**.
+
+No life with 6,900 playtime hours on Dota 2.
+
+If your grades is shit, just play more games. it improve brain cognitive function. [Legit research paper on video games](https://www.mdpi.com/2076-3417/12/11/5561?utm_source=summari)
 
 ### Let's Connect at:
 
