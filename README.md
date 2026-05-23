@@ -4,7 +4,9 @@
 
 Hey there! I'm a passionate **fullchat developer**.
 
-No life with 6,900 playtime hours on Dota 2.
+No life with 7100 playtime hours on Dota 2.
+
+<img width="659" height="223" alt="image" src="https://github.com/user-attachments/assets/6cfba6a5-3301-41b5-81dc-b5dbb1b3b58d" />
 
 
 ### Let's Connect at:
